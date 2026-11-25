@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "addedOn": "2026-11-02",
+  "studentNumber": 2,
+  "sourceStudentNumber": 2,
+  "status": "assets_only_not_integrated",
+  "warning": "게임 조작, 외형 변형, 충돌 및 재시작은 실제 게임에 연결한 후 확인해야 합니다.",
+  "models": [
+    {
+      "file": "booster_game.glb",
+      "bytes": 6967576,
+      "sha256": "ded5e56270e1c46b4fa3051daf6de308b7311ea89954bb8b8b2d3e8b52852457",
+      "skins": 1,
+      "joints": 28,
+      "animations": [
+        "Airborne",
+        "Fall",
+        "Idle",
+        "Jump",
+        "Land",
+        "Move",
+        "Thrust"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    }
+  ]
+}

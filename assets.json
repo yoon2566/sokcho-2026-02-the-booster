@@ -1,0 +1,7 @@
+{
+  "hero": "assets/hero.glb",
+  "island": "assets/island.glb",
+  "wide": "assets/wide.glb",
+  "narrow": "assets/narrow.glb",
+  "coin": "assets/coin.glb"
+}
